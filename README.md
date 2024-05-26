@@ -17,7 +17,7 @@ The solution involves a series of steps where water is poured between the two bu
 ## Installation and Setup
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/water-jug-problem-solver.git
+    git clone https://github.com/jla505/water-jug-problem-solver.git
     cd water-jug-problem-solver
     ```
 
